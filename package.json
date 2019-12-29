@@ -1,0 +1,22 @@
+{
+  "name": "shaper",
+  "version": "0.1.0",
+  "description": "Basic data structure library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": ["data structure", "typescript", "node", "javascript"],
+  "author": "Shusetsu Toda",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "@types/node": "^13.1.1",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "ts-node": "^8.5.4",
+    "tslint": "^6.0.0-beta0",
+    "typescript": "^3.7.4"
+  }
+}
