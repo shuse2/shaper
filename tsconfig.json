@@ -15,6 +15,7 @@
         "sourceMap": true,
         "strict": true,
         "declaration": true,
-		"outDir": "lib",
-    }
+        "outDir": "lib"
+    },
+    "include": ["src/**/*"]
 }

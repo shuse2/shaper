@@ -1,1 +1,2 @@
-export const helloWorld = () => console.log('hello');
+export * from './min_heap';
+export * from './max_heap';
